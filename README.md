@@ -1,92 +1,56 @@
-# ISK Implementation Template
+# Implementation Template
 
-[![Initiative Compliant](https://img.shields.io/badge/ISK-Initiative%20Compliant-green)](https://github.com/isk-initiative)
+[![Initiative Compliant](https://img.shields.io/badge/Initiative-Compliant-purple)](https://github.com/open-knowledge-foundation)
 [![Template Version](https://img.shields.io/badge/Template-v1.0.0-blue)]()
+![GitHub forks](https://img.shields.io/github/forks/iskportal/template)
 
-> **Fork this repository to start your own Independent Society of Knowledge**
+## Introduction
 
-## Quick Start
+**An Open-Knowledge Foundation** is any community of scientific effort—whether in research, education, software/tool development, or support—that believes in and acts upon the principles of **Open-Collaboration**. Such a foundation admires **decentralization** and non-authoritative structures, working towards creating a truly inclusive, participatory, and sustainable ecosystem for knowledge.
 
-This template provides everything you need to create your own ISK implementation. Simply fork this repository and follow the customization guide.
+It rejects the monopolization of science and education by centralized authorities, instead fostering environments where ideas, data, and tools are freely accessible, improvable, and reproducible. Its mission is not merely to publish or share but to **empower individuals and communities** to actively shape, verify, and extend the collective body of knowledge.
+
+An Open-Knowledge Foundation stands on the conviction that intellectual progress emerges not from gate-keeping but from **transparent cooperation, interoperability, and trust-less validation**. By aligning with principles of openness, it ensures that every contributor—independent researcher, student, or institution—retains equal footing in shaping the evolution of knowledge.
+
+Ultimately, such a foundation is not an organization in the conventional sense, but a **living network of collaboration**, where knowledge is border-less, iterative, and permanently open to refinement. 
+
+**This repository provides template documentation for establishing a new _Open-Knowledge_ foundation. The --foundation name-- itself is built upon this repository, adopting its core principles and mission as guiding elements in its decisions and long-term vision.**
 
 ### Prerequisites
-- Familiarity with the [ISK Initiative](https://github.com/initiative)
-- Basic understanding of git and GitHub
-- Commitment to ISK core principles
+- Familiarity with the [Open-Knowledge Initiative](https://github.com/open-knowledge-foundation/initiative)
+- Basic understanding of git and GitHub for forking, pulling, and pushing this repository
+- Commitment to Open-Knowledge core principles
 
 ### Setup Steps
-1. **Fork this repository**
-2. **Clone your fork** (`git clone your-fork-url`)
+1. **Fork this repository and name it** `initiative` in the organizations GitHub/GitLab
+2. **Clone your fork** (`git clone https://github.com/<yourfoundation-org>/initiative`)
 3. **Follow customization guide** ([SETUP_GUIDE.md](SETUP_GUIDE.md))
-
-## What's Included
-
-### Core Documents
-- **Manifesto Template** - Customize for your ISK's unique vision
-- **Charter Template** - Legal and governance framework
-- **Governance Models** - Various organizational structures to choose from
-- **Operational Procedures** - Day-to-day management templates
-### Community Tools
-- **Membership Framework** - Community management system
-- **Onboarding Process** - New member integration
-- **Collaboration Guidelines** - Working together effectively
-
-## Customization Guide
-
-### Required Changes
-Before launching your ISK, you **must** customize:
-- [ ] Organization name and branding
-- [ ] Manifesto and mission statement  
-- [ ] Leadership structure and governance model
-- [ ] Contact information and legal details
-- [ ] Website content and messaging
-
-### Optional Modifications
-Consider customizing:
-- [ ] Membership tiers and benefits
-- [ ] Specialized focus areas
-- [ ] Partnership strategies
-- [ ] Fundraising approaches
-- [ ] Community engagement methods
-
-**[Complete Customization Checklist →](customization/customization-checklist.md)**
-
 ## Validation & Compliance
 
-Your ISK implementation should maintain compatibility with the ISK Initiative framework:
+Your Open-Knowledge implementation should maintain compatibility with the *Open-Knowledge Initiative framework*:
 
-- **Core Principles Alignment** - Adhere to fundamental ISK values
+- **Core Principles Alignment** - Adhere to fundamental **OKF** values
 - **Governance Standards** - Implement transparent, community-driven decisions
-- **Network Participation** - Engage with broader ISK community
+- **Network Participation** - Engage with broader **OKF** community
 - **Quality Assurance** - Maintain high standards for knowledge work
-
-Use `bash scripts/validate-implementation.sh` to check compliance.
-
 ## Network Integration
 
-Once established, register your ISK with the network:
-
+Once established, register your foundation with the network:
 1. **Complete implementation** following this template
-2. **Validate compliance** with ISK Initiative standards  
-3. **Submit registration** to [ISK Network Registry](https://github.com/isk-network)
-4. **Participate in coordination** with other ISKs
+2. **Validate compliance** with **OKF** Initiative standards  
+3. **Submit registration** to [Open Knowledge Foundation]()
+4. **Participate in coordination** with other foundations
 
 ## Resources
-
 ### Essential Reading
-- [ISK Initiative Framework](https://github.com/isk-initiative)
-- [ISK Wiki](https://github.com/isk-wiki) - Comprehensive guides
-- [Network Coordination](https://github.com/isk-network)
-
-### Implementation Examples
-- [Academic ISK Example](examples/academic-isk-example/)
-- [Regional ISK Example](examples/regional-isk-example/)  
-- [Domain-Specific ISK Example](examples/domain-specific-isk-example/)
+- [Open-Knowledge Foundation]
+- [Foundation Wiki]() - Comprehensive guides
+- [Network Coordination]()
 
 ### Support
 - [Setup Guide](SETUP_GUIDE.md) - Detailed implementation instructions
-- [Community Discussions](https://github.com/isk-initiative/discussions)
-- [Network Mentorship](https://github.com/isk-network/support)
+- [Community Discussions](https://github.com/open-knowledge-foundation/discussions)
+- [Network Mentorship]()
 
 ## Contributing
 
@@ -100,8 +64,4 @@ Help improve this template:
 
 This template is provided under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Your ISK implementation can choose its own license while maintaining compatibility with ISK Initiative standards.
-
----
-
-**Ready to start your ISK? [Begin with the Setup Guide →](SETUP_GUIDE.md)**
+Your foundation implementation can choose its own license while maintaining compatibility with Open-Knowledge Foundation Initiative standards.
