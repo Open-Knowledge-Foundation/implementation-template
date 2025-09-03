@@ -10,16 +10,14 @@
 This template provides everything you need to create your own ISK implementation. Simply fork this repository and follow the customization guide.
 
 ### Prerequisites
-- Familiarity with the [ISK Initiative](https://github.com/isk-initiative)
+- Familiarity with the [ISK Initiative](https://github.com/initiative)
 - Basic understanding of git and GitHub
 - Commitment to ISK core principles
 
 ### Setup Steps
 1. **Fork this repository**
 2. **Clone your fork** (`git clone your-fork-url`)
-3. **Run setup script** (`bash scripts/setup-new-isk.sh`)
-4. **Follow customization guide** ([SETUP_GUIDE.md](SETUP_GUIDE.md))
-5. **Validate implementation** (`bash scripts/validate-implementation.sh`)
+3. **Follow customization guide** ([SETUP_GUIDE.md](SETUP_GUIDE.md))
 
 ## What's Included
 
@@ -28,17 +26,6 @@ This template provides everything you need to create your own ISK implementation
 - **Charter Template** - Legal and governance framework
 - **Governance Models** - Various organizational structures to choose from
 - **Operational Procedures** - Day-to-day management templates
-
-### Brand Identity
-- **Brand Guidelines Template** - Visual identity framework
-- **Logo Templates** - Customizable design assets
-- **Design System** - Consistent visual language
-
-### Web Presence
-- **Website Template** - Modern, responsive site foundation  
-- **Content Templates** - Pre-written content you can adapt
-- **Deployment Guides** - Multiple hosting options
-
 ### Community Tools
 - **Membership Framework** - Community management system
 - **Onboarding Process** - New member integration
